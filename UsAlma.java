@@ -1,5 +1,3 @@
-package Donguler;
-
 import java.util.Scanner;
 
 public class UsAlma {
@@ -9,6 +7,7 @@ public class UsAlma {
 
         System.out.print("Üssü alıınacak sayıyı girin : ");
         k = input.nextInt();
+        
         System.out.print("Üs kuvvetini girin : ");
         n = input.nextInt();
 
